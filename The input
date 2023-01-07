@@ -1,3 +1,7 @@
+You need to input 1) number of vertexes + 2) after space the begining vertex + 3) finishing vertex after space
+On next line put the matrix of adjacencies
+
+
 The input need to be like:
 3 2 1
 0 1 1
